@@ -1,2 +1,2 @@
-# calculadorasimples
-uma simples calculadora em javascript
+# Calculadora Simples
+uma simples calculadora em javascript + html + css
